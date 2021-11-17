@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mapreduce_faramond_emile" />
+        <module name="1Hadoop_mapreduce_java FARAMOND_BENHALIMA-main" />
       </profile>
     </annotationProcessing>
   </component>
